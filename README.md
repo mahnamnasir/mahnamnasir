@@ -1,7 +1,6 @@
 Hi 👋 My name is Mahnam Nasir
 =============================
 
-* 🧠  I'm learning MERN stack
 * 🤝  I'm open to collaborating on web application projects
 
 ### Skills
